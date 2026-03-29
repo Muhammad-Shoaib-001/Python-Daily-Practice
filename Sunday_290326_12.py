@@ -108,3 +108,6 @@
 # words = ["apple", "pie", "banana", "cherry"]
 # sorted_words = sorted(words, key=lambda x: len(x))
 # print(sorted_words)
+
+x = [1,2,3,4,5,6,7,8]
+print(sorted(x,reverse=True))
